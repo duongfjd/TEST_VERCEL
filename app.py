@@ -12,4 +12,4 @@ def contact():
     return "Contact page"
     
 if __name__ == "__main__":
-    app.run() | Source: Genelify.com 
+    app.run()
